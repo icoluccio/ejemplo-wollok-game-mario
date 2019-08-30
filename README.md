@@ -1,5 +1,8 @@
 # wollok-example-mario
 
+## Enunciado
+https://docs.google.com/document/d/1KnD_IIHoDTKVTrcJWt-AAhO8fW-saNI0G-KvyfRa6SI/edit?usp=sharing
+
 ## Image attributions
 ### assets/mario.png
 Icon made by [those-icons](https://www.flaticon.com/authors/those-icons) from [www.flaticon.com](https://www.flaticon.com).
